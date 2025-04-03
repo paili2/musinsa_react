@@ -7,7 +7,7 @@ const ProductCategories = () => {
                 display: "flex",
                 gap: "20px",
                 paddingBottom: "15px",
-                borderBottom: "1px solid #8a8a8a",
+                borderBottom: "1px solid rgba(138,138,138,.1)",
             }}
         >
             <ProductCategoryTab
